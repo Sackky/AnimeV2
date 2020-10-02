@@ -32,7 +32,6 @@
             <br>
             Members : {{ this.$route.params.id.members }}
             <br>
-            Members : {{ this.$route.params.id.members }}
           </b-card-text>
         </b-card>
       </b-row>
